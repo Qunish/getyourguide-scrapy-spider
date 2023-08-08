@@ -69,4 +69,4 @@ This repository contains two Scrapy spiders, `QuebecLvSpider` and `QuebecPvSpide
 
 - Make sure to update the `DRIVER_FILE_PATH` in the spiders with the correct path to your downloaded ChromeDriver executable.
 - Adjust XPaths and extraction logic according to the website's structure.
-- Check the MongoDB connection settings to ensure proper data storage.# getyourguide-scrapy-based-crawler
+- Check the MongoDB connection settings to ensure proper data storage.
